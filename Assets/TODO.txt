@@ -1,0 +1,33 @@
+
+General:
+    - decide on planet type
+
+Standard:
+    - A section of the planet surface:
+        - make planet terrain
+    - Multiple textures on the planet surface:
+        - get textures to use
+    - The environment should be lit:
+        - create types of lighting objects:
+            - moving point lights
+            - directional lights
+    - Some elements moving and rotating:
+        - Decide on objects the suit enviroment
+    - A scene hierarchy where some elements move/rotate in relation to parent object:
+        - Decide on objects the suit enviroment
+        - make a basic 'orbit parent' script
+    - A navigable camera, moving around the 3D environment:
+        - create a caracter controller first person camera
+    - Display the framerate being achieved:
+    - Display the total memory being used:
+
+Advanced:
+    - A body of realistic looking water
+    - strange lights in the sky
+    - terrain that changes over time
+
+
+
+
+
+
